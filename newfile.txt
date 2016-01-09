@@ -3,3 +3,16 @@ Amit Patel
 =======
 Sonia ojha
 >>>>>>> 18a7c733d4b930604b14c8ada69ddcbdb36fcc8f
+
+
+git commit -m "By Amit msg"
+
+git pull
+
+git add “filename”
+
+git commit -m "Commit message"
+
+git push origin master
+
+

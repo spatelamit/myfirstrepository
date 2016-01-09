@@ -1,26 +1,18 @@
-<<<<<<< HEAD
-Amit Patel
-=======
-Sonia ojha
->>>>>>> 18a7c733d4b930604b14c8ada69ddcbdb36fcc8f
-<<<<<<< HEAD
-https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
-=======
+git clone
+               home/<folder>
+2. cd <foldername>
+             after changes
+3. git add <file name>
 
+4. git commit -m "Commit message"
 
-<<<<<<< HEAD
-changes kar diye
-=======
-git commit -m "By Amit msg"
+5. git pull
 
-git pull
+6. git add “filename”
 
-git add “filename”
+7. git commit -m "Commit message"
 
-git commit -m "Commit message"
+8. git push origin master
+Username:
+password:
 
-git push origin master
-
->>>>>>> e7b175cb8dd94f9ab1727827218714a5f0f24491
-
->>>>>>> 26de17e394a88dd1c74bcf32ba67972db34b1e96
